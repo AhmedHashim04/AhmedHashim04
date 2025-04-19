@@ -7,16 +7,10 @@
   <a href="https://github.com/AhmedHashim04">
     <img src="https://img.shields.io/badge/GitHub-Ahmed%20Hashim-2b3137?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/ahmedhashim04">
-    <img src="https://img.shields.io/badge/Twitter-@ahmedhashim04-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://www.instagram.com/ahmedhashim04/">
-    <img src="https://img.shields.io/badge/Instagram-ahmedhashim04-E1306C?style=for-the-badge&logo=instagram" />
-  </a>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B;I'm+Ahmed+Hashim;AI+Student+%7C+Backend+Developer;Django%2C+FastAPI%2C+Data+Science+Lover;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=500&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B;I'm+Ahmed+Hashim;AI+Student+%7C+Backend+Developer;Django%2C+FastAPI%2C+Data+Science+Lover;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
 </a>
 
 ---
@@ -30,7 +24,7 @@ class AhmedHashim:
         self.role = "Backend Developer"
         self.education = "BSc in AI, Menoufia University"
         self.location = "Cairo, Egypt"
-        self.interests = ["Python", "Django", "FastAPI", "Data Science", "Machine Learning", "Open Source"]
+        self.interests = ["Python", "Django", "FastAPI", "Data Science"]
         self.hobbies = ["Building APIs", "Learning new tech", "Contributing to GitHub"]
 
     def say_hi(self):
@@ -41,9 +35,9 @@ class AhmedHashim:
 
 ## 🚀 Tech Stack
 
-- 💻 Languages: `Python`, `Java`, `SQL`, `JavaScript`, `HTML/CSS`
+- 💻 Languages: `Python`, `Node.js`, `SQL`, `JavaScript`, `HTML/CSS`
 - 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `DRF`
-- 🧰 Tools: `Docker`, `Celery`, `Git`, `Linux`, `Postman`, `Pytest`
+- 🧰 Tools: `Docker`, `Celery`,  `Redis`, `Git`, `Linux`, `Postman`, `Pytest`
 - 🗄️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 🌐 APIs: `REST`, `JWT Auth`, `OAuth2`
 - 🧠 Concepts: `OOP`, `MVT`, `Data Structures`, `Algorithms`
@@ -52,17 +46,44 @@ class AhmedHashim:
 
 ## 📂 Featured Projects
 
-### 🔹 [Trader E-Commerce 🛒](https://github.com/AhmedHashim04/trader-ecommerce)
-- Full-featured Django app with PostgreSQL, Redis, Celery
-- Includes payments (Vodafone Cash), orders, CSV handling, Bootstrap UI
+### 🔹 [Trader E-Commerce 🛒](https://github.com/AhmedHashim04/Trader-Fullstack-Project)  
+A full-featured E-Commerce platform built with **Django**, **PostgreSQL**, **Redis**, and **Celery**.  
+Includes:
+- Payment integration (e.g., Vodafone Cash)
+- Order management system
+- CSV data import/export
+- Responsive UI using Bootstrap  
 
-### 🔹 [Car Classifier 🚗](https://github.com/AhmedHashim04/car-classifier)
-- Flask app using ResNet50 to classify car images
-- Built with a team, uses deep learning + Flask frontend
+---
 
-### 🔹 [Education Management System 🎓](https://github.com/AhmedHashim04/education-system)
-- A Django system for managing students, teachers, classes, and performance
-- Includes role-based permissions and admin dashboard
+### 🔹 [https://github.com/AhmedHashim04/DeepLearning-Project)  
+A **Flask** web app that classifies car images using a fine-tuned **ResNet50** deep learning model.  
+- Developed collaboratively in a team  
+- Offers real-time image prediction via a simple Flask interface  
+
+---
+
+### 🔹 [Education Management System 🎓](https://github.com/AhmedHashim04/EducationManagementSystem)  
+A robust system built with **Django** to manage students, instructors, classes, and academic performance.  
+- Role-based permissions for admin, staff, and students  
+- Admin dashboard for full control over system operations  
+
+---
+
+### 🔹 [Questify - Social Media Platform 🌐](https://github.com/AhmedHashim04/Questify)  
+A **social media app** for sharing knowledge and questions.  
+- Built with Django and PostgreSQL  
+- Features include user profiles, Q&A posts, likes, and comments  
+- Focused on educational engagement in a social context  
+
+---
+
+### 🔹 [Emarket - E-commerce API Platform 📦](https://github.com/AhmedHashim04/EmarketAPI)  
+A scalable **RESTful API** backend for an E-commerce system built with **Django REST Framework**.  
+- JWT authentication  
+- Product, category, cart, and order management  
+- Designed for frontend integration with any modern JS framework  
+
 
 ---
 
@@ -78,9 +99,6 @@ class AhmedHashim:
 ## 💬 Let's Connect!
 
 - 📨 Email: ahmedhashim.ai@gmail.com
-- 💼 Portfolio: [Coming Soon...]
-- 📚 Blog: [Medium / Hashnode - Coming Soon]
-
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
