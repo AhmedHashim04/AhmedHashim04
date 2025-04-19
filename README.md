@@ -7,12 +7,6 @@
   <a href="https://github.com/AhmedHashim04">
     <img src="https://img.shields.io/badge/Ahmed%20Hashim-GitHub-2b3137" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/ahmedhashim04">
-    <img src="https://img.shields.io/badge/Ahmed%20Hashim-Twitter-1DA1F2" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/ahmedhashim04/">
-    <img src="https://img.shields.io/badge/Ahmed%20Hashim-Instagram-E1306C" alt="Instagram" />
-  </a>
 </p>
 
 <a href="https://git.io/typing-svg">
