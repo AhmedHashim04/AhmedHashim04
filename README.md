@@ -55,8 +55,7 @@ Includes:
 - Responsive UI using Bootstrap  
 
 ---
-
-### 🔹 [https://github.com/AhmedHashim04/DeepLearning-Project)  
+### 🔹 [Car Classifier 🚗](https://github.com/AhmedHashim04/DeepLearning-Project)  
 A **Flask** web app that classifies car images using a fine-tuned **ResNet50** deep learning model.  
 - Developed collaboratively in a team  
 - Offers real-time image prediction via a simple Flask interface  
