@@ -40,7 +40,7 @@ class AhmedHashim:
 - 🧰 Tools: `Docker`, `Celery`,  `Redis`, `Git`, `Linux`, `Postman`, `Pytest`
 - 🗄️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 🌐 APIs: `REST`, `JWT Auth`, `OAuth2`
-- 🧠 Concepts: `OOP`, `MVT`, `Data Structures`, `Algorithms`
+- 🧠 Concepts: `OOP`, `MVT`, `Data Structures`, `Algorithms`, `SOLID`, `Design Patterns`
 
 ---
 
