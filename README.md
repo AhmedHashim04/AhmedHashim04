@@ -97,7 +97,7 @@ A scalable **RESTful API** backend for an E-commerce system built with **Django 
 
 ## 💬 Let's Connect!
 
-- 📨 Email: ahmedhashim.ai@gmail.com
+- 📨 Email: ahmedha4im7@gmail.com
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
