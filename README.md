@@ -37,7 +37,7 @@ class AhmedHashim:
 
 - 💻 Languages: `Python`, `Node.js`, `SQL`, `JavaScript`, `HTML/CSS`
 - 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `DRF`
-- 🧰 Tools: `Docker`, `Celery`,  `Redis`, `Git`, `Linux`, `Postman`, `Pytest`
+- 🧰 Tools: `Docker`, `Celery`,  `Redis`, `Git`, `Linux`, `Postman`, `Swagger`, `Pytest`
 - 🗄️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 🌐 APIs: `REST`, `JWT Auth`, `OAuth2`
 - 🧠 Concepts: `OOP`, `MVT`, `Data Structures`, `Algorithms`, `SOLID`, `Design Patterns`
