@@ -35,9 +35,9 @@ class AhmedHashim:
 
 ## 🚀 Tech Stack
 
-- 💻 Languages: `Python`, `Node.js`, `SQL`, `JavaScript`, `HTML/CSS`
+- 💻 Languages: `Python`, `Java`, `SQL`, `JavaScript`, `HTML/CSS`
 - 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `DRF`
-- 🧰 Tools: `Docker`, `Celery`, `Git`, `Linux`, `Postman`, `Swagger`, `Pytest`
+- 🧰 Tools: `Docker`, `Celery`, `Redis`, `Git`, `Linux`, `Postman`, `Swagger`, `Pytest`
 - 🗄️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 🌐 APIs: `REST`, `JWT Auth`, `OAuth2`
 - 🧠 Concepts: `OOP`, `MVT`, `Data Structures`, `Algorithms`, `SOLID`, `Design Patterns`
@@ -53,12 +53,6 @@ Includes:
 - Order management system
 - CSV data import/export
 - Responsive UI using Bootstrap  
-
----
-### 🔹 [Car Classifier 🚗](https://github.com/AhmedHashim04/DeepLearning-Project)  
-A **Flask** web app that classifies car images using a fine-tuned **ResNet50** deep learning model.  
-- Developed collaboratively in a team  
-- Offers real-time image prediction via a simple Flask interface  
 
 ---
 
@@ -83,6 +77,12 @@ A scalable **RESTful API** backend for an E-commerce system built with **Django 
 - Product, category, cart, and order management  
 - Designed for frontend integration with any modern JS framework  
 
+### 🔹 [Car Classifier 🚗](https://github.com/AhmedHashim04/DeepLearning-Project)  
+A **Flask** web app that classifies car images using a fine-tuned **ResNet50** deep learning model.  
+- Developed collaboratively in a team  
+- Offers real-time image prediction via a simple Flask interface  
+
+---
 
 ---
 
@@ -99,5 +99,3 @@ A scalable **RESTful API** backend for an E-commerce system built with **Django 
 
 - 📨 Email: ahmedha4im7@gmail.com
 ---
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
