@@ -35,8 +35,8 @@ class AhmedHashim:
 
 ## 🚀 Tech Stack
 
-- 💻 Languages: `Python`, `Java`, `SQL`, `JavaScript`, `HTML/CSS`
-- 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `DRF`
+- 💻 Languages: `Python`, `Java`, `SQL`, `HTML/CSS`, `JavaScript`
+- 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `DRF`, `Spring Boot` 
 - 🧰 Tools: `Docker`, `Celery`, `Redis`, `Git`, `Linux`, `Postman`, `Swagger`, `Pytest`
 - 🗄️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 🌐 APIs: `REST`, `JWT Auth`, `OAuth2`
