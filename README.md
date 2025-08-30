@@ -24,7 +24,7 @@ class AhmedHashim:
         self.role = "Backend Developer"
         self.education = "BSc in AI, Menoufia University"
         self.location = "Cairo, Egypt"
-        self.interests = ["Python", "Django", "FastAPI", "Java", "Spring Boot"]
+        self.interests = ["Python", "Django", "FastAPI", "Frappe", "Java", "Spring Boot"]
         self.hobbies = ["Building APIs", "Learning new tech", "Contributing to GitHub"]
 
     def say_hi(self):
@@ -36,7 +36,7 @@ class AhmedHashim:
 ## 🚀 Tech Stack
 
 - 💻 Languages: `Python`, `Java`, `SQL`, `HTML/CSS`, `JavaScript`
-- 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `DRF`, `Spring Boot` 
+- 🔧 Frameworks: `Django`, `FastAPI`, `Flask`, `Frappe` `DRF`, `Spring Boot` 
 - 🧰 Tools: `Docker`, `Celery`, `Redis`, `Git`, `Linux`, `Postman`, `Swagger`, `Pytest`
 - 🗄️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 🌐 APIs: `REST`, `JWT Auth`, `OAuth2`
