@@ -45,8 +45,7 @@ class AhmedHashim:
 ---
 
 ## 📂 Featured Projects
-
-### 🔹 [Advanced E-Commerce 🛒]([https://github.com/AhmedHashim04/AdvancedE-CommerceProject](https://github.com/AhmedHashim04/AdvancedE-CommerceProject))  
+### 🔹 [Advanced E-Commerce 🛒](https://github.com/AhmedHashim04/AdvancedE-CommerceProject)
 A full-featured multi-seller Ecommerce platform built with **Django REST framework, MySQL, Redis, and Celery**.
 Includes:
 - Multi-seller dashboards & product management
