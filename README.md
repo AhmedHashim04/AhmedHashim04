@@ -46,14 +46,15 @@ class AhmedHashim:
 
 ## 📂 Featured Projects
 
-### 🔹 [Trader E-Commerce 🛒](https://github.com/AhmedHashim04/Trader-Fullstack-Project)  
-A full-featured E-Commerce platform built with **Django**, **PostgreSQL**, **Redis**, and **Celery**.  
+### 🔹 [Advanced E-Commerce 🛒]([https://github.com/AhmedHashim04/AdvancedE-CommerceProject](https://github.com/AhmedHashim04/AdvancedE-CommerceProject))  
+A full-featured multi-seller Ecommerce platform built with **Django REST framework, MySQL, Redis, and Celery**.
 Includes:
-- Payment integration (e.g., Vodafone Cash)
-- Order management system
-- CSV data import/export
-- Responsive UI using Bootstrap  
-
+- Multi-seller dashboards & product management
+- Multi-shipping company integration & region-based shipping
+- Payment gateways, coupons, promotions, and wishlist
+- Order tracking, notifications, reviews & ratings
+- CSV import/export, admin tools, and real-time updates
+- Multi-language & multi-currency support
 ---
 
 ### 🔹 [Education Management System 🎓](https://github.com/AhmedHashim04/EducationManagementSystem)  
@@ -67,15 +68,20 @@ A robust system built with **Django** to manage students, instructors, classes, 
 A **social media app** for sharing knowledge and questions.  
 - Built with Django and PostgreSQL  
 - Features include user profiles, Q&A posts, likes, and comments  
-- Focused on educational engagement in a social context  
+- Focused on educational engagement in a social context
 
 ---
 
-### 🔹 [Emarket - E-commerce API Platform 📦](https://github.com/AhmedHashim04/EmarketAPI)  
-A scalable **RESTful API** backend for an E-commerce system built with **Django REST Framework**.  
-- JWT authentication  
-- Product, category, cart, and order management  
-- Designed for frontend integration with any modern JS framework  
+### 🔹 [Trader E-Commerce 🛒](https://github.com/AhmedHashim04/Trader-Fullstack-Project)  
+A full-stack E-Commerce platform built with **HTML**, **CSS**, **Bootstrap**, **JS**, **Django**, **DTL**, **PostgreSQL**, **Redis**, and **Celery**.  
+Includes:
+- Payment integration (e.g., Vodafone Cash)
+- Order management system
+- CSV data import/export
+- Responsive UI using Bootstrap  
+
+---
+
 
 ### 🔹 [Car Classifier 🚗](https://github.com/AhmedHashim04/DeepLearning-Project)  
 A **Flask** web app that classifies car images using a fine-tuned **ResNet50** deep learning model.  
