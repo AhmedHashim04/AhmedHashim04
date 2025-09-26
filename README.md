@@ -34,7 +34,7 @@ class AhmedHashim:
 
 - 💻 **Languages**: Python, Java, SQL, HTML/CSS, JavaScript  
 - 🔧 **Frameworks**: Django, FastAPI, Flask, Frappe, DRF, Spring Boot  
-- 🧰 **Tools**: Docker, Celery, Redis, Git, Linux, Postman, Swagger, Pytest  
+- 🧰 **Tools**: Docker, Celery, Redis, Git, Linux, Postman, Swagger, Pytest, n8n
 - 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB  
 - 🌐 **APIs**: REST, JWT Auth, OAuth2  
 - 🧠 **Concepts**: OOP, MVT, Data Structures, Algorithms, SOLID, Design Patterns  
