@@ -49,7 +49,6 @@ class AhmedHashim:
 ![Django](https://skillicons.dev/icons?i=django)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Flask](https://skillicons.dev/icons?i=flask)
-![DRF](https://skillicons.dev/icons?i=django)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Git](https://skillicons.dev/icons?i=git)
