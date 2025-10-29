@@ -3,7 +3,7 @@
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=500&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B;I'm+Ahmed+Hashim;AI+Student+%7C+Backend+Developer;Django%2C+FastAPI%2C+Data+Science+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=500&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B;I'm+Ahmed+Hashim;AI+Student+%7C+Backend+Developer;Django%2C+FastAPI%2C" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ class AhmedHashim:
 
 ## 🚀 Tech Stack  
 
-- 💻 **Languages**: Python, Java, SQL, HTML/CSS, JavaScript  
+- 💻 **Languages**: Python, Java, JavaScript, SQL, HTML/CSS
 - 🔧 **Frameworks**: Django, FastAPI, Flask, Frappe, DRF, Spring Boot  
 - 🧰 **Tools**: Docker, Celery, Redis, Git, Linux, Postman, Swagger, Pytest, n8n
 - 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB  
